@@ -1,0 +1,15 @@
+
+.box{
+    border: 3px solid black;
+    height: 80px;
+    width: 80px;
+    display: inline-block;
+    margin:-1.5px;
+    
+}
+.box-black{
+    background-color: black;
+
+}
+
+
